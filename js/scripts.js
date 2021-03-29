@@ -1,4 +1,10 @@
-// let answer = question + question1 ect
+// $(document).ready(function() {
+//   $("form#quiz").submit(function(event) {
+//     const question1 = parseInt($("#question1").val());
+    
+//     event.preventDefault();
+//   });
+// });
 
 const jscript = 25
 const html = 40
