@@ -1,10 +1,16 @@
 // $(document).ready(function() {
 //   $("form#quiz").submit(function(event) {
 //     const question1 = parseInt($("#question1").val());
+       
     
 //     event.preventDefault();
 //   });
 // });
+
+$("#answer1").hide();
+$("#answer2").hide();
+$("#answer3").hide();
+
 
 const jscript = 25
 const html = 40
