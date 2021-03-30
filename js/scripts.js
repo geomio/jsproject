@@ -5,7 +5,10 @@
 //     const question3 = parseInt($("#question3").val());
 //     const question4 = parseInt($("#question4").val());
 //     const question5 = parseInt($("#question5").val());
-       
+//     $("#answer1").hide();
+//     $("#answer2").hide();
+//     $("#answer3").hide();
+//            
     
 //     event.preventDefault();
 //   });
@@ -23,11 +26,11 @@ const csharp = 66
 let answer = jscript + html + csharp;
 
 if(answer <= 33 && answer >= 0){
-  console.log("test working");
+  $("#answer1").show();
 }else if(answer <= 66 && answer >= 34){
-  console.log("nexttest2");
+  $("#answer2").show();
 }else if(answer <= 100 && answer >= 67){
-  console.log("thirdtest");
+  $("#answer3").show();
 }else if(answer < 100);{
-  console.log("failsafetohigh");
+  $("#answer3").show();
 }
