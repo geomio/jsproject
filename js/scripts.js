@@ -9,7 +9,7 @@
 //     $("#answer2").hide();
 //     $("#answer3").hide();
 //            
-    
+//     let answer = question1 + question2 + question3 + question4 + question5
 //     event.preventDefault();
 //   });
 // });
