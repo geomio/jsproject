@@ -9,12 +9,33 @@
 }
 
 /* index page styles = pg1 */
-
+#pg1title{
+  text-align: center;
+}
 /* quiz page styles = pg2 */
-
+#pg2title{
+  text-align: center;
+}
 /* html page styles = pg3 */
-
+#pg3title{
+  text-align: center;
+}
 /* javascript page styles = pg4 */
-
+#pg4title{
+  text-align: center;
+}
 /* c# page styles = pg5 */
+#pg5title{
+  text-align: center;
+}
+/* common tags */
 
+img{
+  display: block;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  padding: 20px;
+  
+}
