@@ -12,12 +12,34 @@
 #pg1title{
   text-align: center;
 }
+#pg1quizbutton{
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#pg1text{
+  text-align: center;
+  padding: 20px;
+}
+#pg1texthead{
+  text-align: center;
+  padding: 10px;
+}
+#pg1lowtext{
+  text-align: center;
+  padding: 20px;
+}
 /* quiz page styles = pg2 */
 #pg2title{
   text-align: center;
 }
 /* html page styles = pg3 */
+
 #pg3title{
+  text-align: center;
+}
+#pg3homebutton{
   text-align: center;
 }
 /* javascript page styles = pg4 */
@@ -37,5 +59,8 @@ img{
   margin-right: auto;
   border-radius: 30px;
   padding: 20px;
-  
+}
+
+body{
+  background-color: rgb(211, 241, 199);
 }
