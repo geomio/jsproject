@@ -97,7 +97,42 @@
 
 #pg3title{
   text-align: center;
+  font-size: 5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
+
+#pg3texthead{
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+#pg3answertext{
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+#pg3answerlinks{
+  text-align: center;
+  margin: 5px;
+  list-style-position: inside;
+}
+
+.pg3linktext{
+  font-size: 2em;
+}
+
+#pg3answerhead{
+  font-size: 3em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+
 #pg3homebutton{
   text-align: center;
 }
@@ -135,6 +170,10 @@ img{
   font-weight: bold;
   font-size: 2em;
   margin-top: 10px;
+}
+
+.btn-group{
+  margin-bottom: 10px;
 }
 
 
