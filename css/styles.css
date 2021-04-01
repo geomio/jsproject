@@ -9,32 +9,61 @@
 }
 
 /* index page styles = pg1 */
+
+#pg1{
+  background-color: rgb(211, 241, 199);
+}
+
 #pg1title{
   text-align: center;
+  font-size: 5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
 #pg1quizbutton{
   margin: auto;
   display: flex;
   flex-direction: row;
   justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 1.5em;
 }
 #pg1text{
   text-align: center;
   padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 2em;
 }
 #pg1texthead{
   text-align: center;
   padding: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 2.5em;
 }
 #pg1lowtext{
   text-align: center;
   padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 1.5em;
 }
 /* quiz page styles = pg2 */
+
+#pg2{
+  background-color: rgb(147, 255, 104);
+}
+
 #pg2title{
   text-align: center;
 }
 /* html page styles = pg3 */
+
+#pg3{
+  background-color: rgb(255, 216, 88);
+}
 
 #pg3title{
   text-align: center;
@@ -43,10 +72,20 @@
   text-align: center;
 }
 /* javascript page styles = pg4 */
+
+#pg4{
+  background-color: mediumseagreen;
+}
+
 #pg4title{
   text-align: center;
 }
 /* c# page styles = pg5 */
+
+#pg5{
+  background-color: lightcoral;
+}
+
 #pg5title{
   text-align: center;
 }
@@ -61,6 +100,19 @@ img{
   padding: 20px;
 }
 
-body{
-  background-color: rgb(211, 241, 199);
+.btn{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 2em;
 }
+
+
+
+
+
+
+
+
+
+
+
