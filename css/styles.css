@@ -122,10 +122,6 @@
   list-style-position: inside;
 }
 
-.pg3linktext{
-  font-size: 2em;
-}
-
 #pg3answerhead{
   font-size: 3em;
   font-family: 'Courier New', Courier, monospace;
@@ -169,10 +165,6 @@
   list-style-position: inside;
 }
 
-.pg4linktext{
-  font-size: 2em;
-}
-
 #pg4answerhead{
   font-size: 3em;
   font-family: 'Courier New', Courier, monospace;
@@ -191,6 +183,40 @@
 }
 
 #pg5title{
+  text-align: center;
+  font-size: 5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+#pg5texthead{
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+#pg5answertext{
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+#pg5answerlinks{
+  text-align: center;
+  margin: 5px;
+  list-style-position: inside;
+}
+
+#pg5answerhead{
+  font-size: 3em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+
+#pg5homebutton{
   text-align: center;
 }
 /* common tags */
@@ -213,6 +239,10 @@ img{
 
 .btn-group{
   margin-bottom: 10px;
+}
+
+.pglinktext{
+  font-size: 2em;
 }
 
 
