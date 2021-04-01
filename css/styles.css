@@ -144,7 +144,46 @@
 
 #pg4title{
   text-align: center;
+  font-size: 5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
+
+#pg4texthead{
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+#pg4answertext{
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+#pg4answerlinks{
+  text-align: center;
+  margin: 5px;
+  list-style-position: inside;
+}
+
+.pg4linktext{
+  font-size: 2em;
+}
+
+#pg4answerhead{
+  font-size: 3em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+
+#pg4homebutton{
+  text-align: center;
+}
+
 /* c# page styles = pg5 */
 
 #pg5{
