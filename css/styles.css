@@ -1,11 +1,20 @@
 #answer1{
   display: none;
+  font-size: 5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
 #answer2{
   display: none;
+  font-size: 5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
 #answer3{
   display: none;
+  font-size: 5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
 
 /* index page styles = pg1 */
@@ -52,13 +61,34 @@
 }
 /* quiz page styles = pg2 */
 
+.pg2quizstyle{
+  text-align: center;
+  text-align: center;
+  padding: 5px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 1em;
+}
+
 #pg2{
   background-color: rgb(147, 255, 104);
 }
 
 #pg2title{
   text-align: center;
+  font-size: 5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
+
+#pg2submit{
+  margin: 20px;
+  font-size: 2em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+
 /* html page styles = pg3 */
 
 #pg3{
@@ -104,6 +134,7 @@ img{
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
   font-size: 2em;
+  margin-top: 10px;
 }
 
 
