@@ -88,6 +88,14 @@
   font-weight: bold;
 }
 
+#pg2usertext{
+  margin: 10px;
+  font-size: 2em;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  display: none;
+}
+
 
 /* html page styles = pg3 */
 

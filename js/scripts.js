@@ -5,17 +5,24 @@ $(document).ready(function() {
     const question3 = parseInt($("#question3").val());
     const question4 = parseInt($("#question4").val());
     const question5 = parseInt($("#question5").val());
+    const username = $("input#username").val();
+    
+    $("#pg2usertext").hide();
     $("#answer1").hide();
     $("#answer2").hide();
     $("#answer3").hide();
+    $(".username").text(username);
            
     let answer = question1 + question2 + question3 + question4 + question5
 
     if(answer <= 33 && answer >= 0){
+      $("#pg2usertext").show();
       $("#answer1").show();
     }else if(answer <= 66 && answer >= 34){
+      $("#pg2usertext").show();
       $("#answer2").show();
     }else if(answer <= 100 && answer >= 67){
+      $("#pg2usertext").show();
       $("#answer3").show();
     }
 
