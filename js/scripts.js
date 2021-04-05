@@ -16,13 +16,19 @@ $(document).ready(function() {
     let answer = question1 + question2 + question3 + question4 + question5
 
     if(answer <= 33 && answer >= 0){
+      $("#pg2usertext").fadeIn(1000);
       $("#pg2usertext").show();
+      $("#answer1").fadeIn(1000);
       $("#answer1").show();
     }else if(answer <= 66 && answer >= 34){
+      $("#pg2usertext").fadeIn(1000);
       $("#pg2usertext").show();
+      $("#answer2").fadeIn(1000);
       $("#answer2").show();
     }else if(answer <= 100 && answer >= 67){
+      $("#pg2usertext").fadeIn(1000);
       $("#pg2usertext").show();
+      $("#answer3").fadeIn(1000);
       $("#answer3").show();
     }
 
