@@ -50,5 +50,8 @@ _Html5, Jquery, JavaScript, bootstrap.css, and .css stylesheet, made in Visual S
 
 
 ### License
+
+CC0 license feel free to use
+CC0 images used from pixabay.com
  
 Copyright (c) 2021 *_geoff millner_*
