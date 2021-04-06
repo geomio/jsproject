@@ -17,7 +17,7 @@
   
   The home page has a link button to the quiz..although the links to the perspective programing are located below. 
   
-  On the quiz users wil be able to in a form enter a name and answer a few questions. Upon completion user will be presented with their name and a button to their program language page.
+  On the quiz page users wil be able do a short quiz. User should form enter a name and answer a few questions. Upon completion user will be presented with their name and a button to their program language page.
 
 # Setup/Installation Requirements
 
