@@ -13,26 +13,30 @@
 
 ## Description
 
-  Here is a html quiz page with a bootstrap and js functions to make a branching quiz that will help the user decide what programing language is suited for them. the home page has a link button to the quiz..although the links to the perspective programing are located below.. on the quiz users wil be able to in a form enter a name and answer a few questions. Upon completion user will be presented with their name and a button to their program language page.
+  Here is a html quiz page with a bootstrap and js functions to make a branching quiz that will help the user decide what programing language is suited for them. 
+  
+  The home page has a link button to the quiz..although the links to the perspective programing are located below. 
+  
+  On the quiz users wil be able to in a form enter a name and answer a few questions. Upon completion user will be presented with their name and a button to their program language page.
 
 # Setup/Installation Requirements
 
-0. tested for windows!
-1. have internet connection
-2. have browser such as google
-3. open terminal of choice
-4. navigate to directory via terminal where you want install
-5. in terminal type: git clone https://github.com/geomio/jsproject.git
-6. open index.html page via internet browser
-7. press quiz button
-8. enter name and answer question
-9. enjoy results
-10. press home button to return home
+0.  Tested for windows!
+1.  Have internet connection
+2.  Have browser such as google
+3.  Open terminal of choice
+4.  Navigate to directory via terminal where you want install
+5.  In terminal type: git clone https://github.com/geomio/jsproject.git
+6.  Open index.html page via internet browser
+7.  Press quiz button
+8.  Enter name and answer question
+9.  Enjoy results
+10. Press home button to return home
 
 # Known Bugs
 
-only tested in windows.
-view on small devices may be weird.
+Only tested in windows.
+View on small devices may be weird.
 
 # Support and contact details
 
@@ -51,7 +55,7 @@ _Html5, Jquery, JavaScript, bootstrap.css, and .css stylesheet, made in Visual S
 
 ### License
 
-CC0 license feel free to use
-CC0 images used from pixabay.com
+CC0 License. Feel free to use.
+CC0 Images used from  www.pixabay.com
  
-Copyright (c) 2021 *_geoff millner_*
+Copyright (c) 2021 *_Geoff Millner_*
